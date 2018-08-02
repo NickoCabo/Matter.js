@@ -1,0 +1,13 @@
+Contacto:
+cesar.nicolas.cabo@gmail.com
+SITIO WEB:
+cesarnicolas.website
+
+CONTROLES:
+Crear figuras geometricas cuadradas con "click" izquierdo.
+Crear figuras geometricas triangulares arrastrando el "click" izquierdo.
+
+LIBRERIA:
+p5.js
+MOTOR FISICO:
+Matter.js
